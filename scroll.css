@@ -8,7 +8,7 @@ body {
   height: 1000px;
   position: relative;
   overflow: hidden;
-  background: url(/assets/bg.jpg);
+  background: url("assets/bg.jpg");
   background-size: cover;
 }
 .zoom:before {
